@@ -1,0 +1,73 @@
+//
+// Prefix header for all source files of the 'DLNASample' target in the 'DLNASample' project
+//
+
+#import <Availability.h>
+
+#ifndef __IPHONE_4_0
+#warning "This project uses features only available in iOS SDK 4.0 and later."
+#endif
+
+#ifdef __OBJC__
+    #import <UIKit/UIKit.h>
+    #import <Foundation/Foundation.h>
+
+
+
+//import
+#import"TVViewController.h"
+#import"MEViewController.h"
+#import"MonitorViewController.h"
+#import"StarMainTabController.h"
+#import "SearchViewController.h"
+#import "RouteSetting.h"
+#import "HistoryViewController.h"
+#import "ZXVideo.h"
+#import "LinkViewController.h"
+#import "AboutViewController.h"
+#import "RouteManageViewController.h"
+
+#import "ZXVideoPlayerController.h"
+#import "TVCell.h"
+#import "CategoryModel.h"
+#import "ServiceModel.h"
+#import "SocketModel.h"
+
+#import "Singleton.h"
+#import <objc/runtime.h>
+//#import "DeviceManageViewController.h"
+//ext
+#import "AppConfig.h"
+#import "GGMacros.h"
+#import "AppApiConstants.h"
+
+#import "BUIControl.h"
+#import "MBProgressHUD+SimplyShow.h"
+#import "MBProgressHUD+Add.h"
+#import "MBProgressHUD.h"
+#import <Reachability.h>
+#import <SDImageCache.h>
+#import <SDWebImage/UIImageView+WebCache.h>
+#import "LBGetHttpRequest.h"
+#import "LBPostHttpRequest.h"
+#import <ASIHTTPRequest.h>
+#import "NSData+JSONCategories.h"
+#import "NSObject+JSONCategories.h"
+#import "NSString+JSONCategories.h"
+#import "SocketUtils.h"
+#import "GGUtil.h"
+//pod
+
+#import "AsyncSocket.h"
+//#import "HexColors.h"   //没有用
+//new
+#import "YGPCache.h"
+#import "YGPCacheMemory.h"
+#import "YGPCacheDisk.h"
+#import "TVTable.h"
+#import "YLSlideTitleView.h"
+#import "YLSlideView.h"
+#import "FullScreenView.h"
+
+
+#endif
