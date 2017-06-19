@@ -9,8 +9,8 @@
 #import "AppDelegate.h"
 
 #import "MasterViewController.h"
-#import "StarAPP-Bridging-Header.h"
-#import "StarAPP-Swift.h"
+//#import "StarAPP-Bridging-Header.h"
+//#import "StarAPP-Swift.h"
 @implementation AppDelegate
 
 @synthesize window = _window;
@@ -39,8 +39,8 @@
     self.window = [[UIWindow alloc] initWithFrame:[[UIScreen mainScreen] bounds]];
     
     
-    CTLProtocol * Test = [[CTLProtocol alloc]init];
-    [NSURLProtocol registerClass:[Test class]];
+//    CTLProtocol * Test = [[CTLProtocol alloc]init];
+//    [NSURLProtocol registerClass:[Test class]];
     
     // Override point for customization after application launch.
     

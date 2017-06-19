@@ -407,9 +407,6 @@
 		70D6B9031E2DAF3D00957A81 /* Movies@1x.png in Resources */ = {isa = PBXBuildFile; fileRef = 70D6B8D61E2DAF3D00957A81 /* Movies@1x.png */; };
 		70D6B9041E2DAF3D00957A81 /* Movies@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 70D6B8D71E2DAF3D00957A81 /* Movies@2x.png */; };
 		70D6B9051E2DAF3D00957A81 /* Movies@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 70D6B8D81E2DAF3D00957A81 /* Movies@3x.png */; };
-		70D6B9061E2DAF3D00957A81 /* Movies&Series@1x.png in Resources */ = {isa = PBXBuildFile; fileRef = 70D6B8D91E2DAF3D00957A81 /* Movies&Series@1x.png */; };
-		70D6B9071E2DAF3D00957A81 /* Movies&Series@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 70D6B8DA1E2DAF3D00957A81 /* Movies&Series@2x.png */; };
-		70D6B9081E2DAF3D00957A81 /* Movies&Series@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 70D6B8DB1E2DAF3D00957A81 /* Movies&Series@3x.png */; };
 		70D6B9091E2DAF3D00957A81 /* News@1x.png in Resources */ = {isa = PBXBuildFile; fileRef = 70D6B8DC1E2DAF3D00957A81 /* News@1x.png */; };
 		70D6B90A1E2DAF3D00957A81 /* News@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 70D6B8DD1E2DAF3D00957A81 /* News@2x.png */; };
 		70D6B90B1E2DAF3D00957A81 /* News@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 70D6B8DE1E2DAF3D00957A81 /* News@3x.png */; };
@@ -1035,9 +1032,6 @@
 		70D6B8D61E2DAF3D00957A81 /* Movies@1x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Movies@1x.png"; sourceTree = "<group>"; };
 		70D6B8D71E2DAF3D00957A81 /* Movies@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Movies@2x.png"; sourceTree = "<group>"; };
 		70D6B8D81E2DAF3D00957A81 /* Movies@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Movies@3x.png"; sourceTree = "<group>"; };
-		70D6B8D91E2DAF3D00957A81 /* Movies&Series@1x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Movies&Series@1x.png"; sourceTree = "<group>"; };
-		70D6B8DA1E2DAF3D00957A81 /* Movies&Series@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Movies&Series@2x.png"; sourceTree = "<group>"; };
-		70D6B8DB1E2DAF3D00957A81 /* Movies&Series@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Movies&Series@3x.png"; sourceTree = "<group>"; };
 		70D6B8DC1E2DAF3D00957A81 /* News@1x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "News@1x.png"; sourceTree = "<group>"; };
 		70D6B8DD1E2DAF3D00957A81 /* News@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "News@2x.png"; sourceTree = "<group>"; };
 		70D6B8DE1E2DAF3D00957A81 /* News@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "News@3x.png"; sourceTree = "<group>"; };
@@ -1057,8 +1051,6 @@
 		70D6B8EC1E2DAF3D00957A81 /* Startimes@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Startimes@2x.png"; sourceTree = "<group>"; };
 		70D6B8ED1E2DAF3D00957A81 /* Startimes@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Startimes@3x.png"; sourceTree = "<group>"; };
 		70D6B97A1E2DEA5A00957A81 /* libMJRefresh.a */ = {isa = PBXFileReference; lastKnownFileType = archive.ar; name = libMJRefresh.a; path = "../../Library/Developer/Xcode/DerivedData/StarAPP-ejkwxdgcsxhkqoerxzpfnwxbqjup/Build/Products/Debug-iphonesimulator/MJRefresh/libMJRefresh.a"; sourceTree = "<group>"; };
-		70E226E01EA9EEA5007B09D8 /* module.modulemap */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = "sourcecode.module-map"; path = module.modulemap; sourceTree = "<group>"; };
-		70E226E31EA9EEA5007B09D8 /* StarAPP-Bridging-Header.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "StarAPP-Bridging-Header.h"; sourceTree = "<group>"; };
 		70E712571DB5EE1300BD98EE /* Group 7@1x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Group 7@1x.png"; sourceTree = "<group>"; };
 		70E712581DB5EE1300BD98EE /* Group 7@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Group 7@2x.png"; sourceTree = "<group>"; };
 		70E712591DB5EE1300BD98EE /* Group 7@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Group 7@3x.png"; sourceTree = "<group>"; };
@@ -1883,9 +1875,6 @@
 				70D6B8D61E2DAF3D00957A81 /* Movies@1x.png */,
 				70D6B8D71E2DAF3D00957A81 /* Movies@2x.png */,
 				70D6B8D81E2DAF3D00957A81 /* Movies@3x.png */,
-				70D6B8D91E2DAF3D00957A81 /* Movies&Series@1x.png */,
-				70D6B8DA1E2DAF3D00957A81 /* Movies&Series@2x.png */,
-				70D6B8DB1E2DAF3D00957A81 /* Movies&Series@3x.png */,
 				70D6B8DC1E2DAF3D00957A81 /* News@1x.png */,
 				70D6B8DD1E2DAF3D00957A81 /* News@2x.png */,
 				70D6B8DE1E2DAF3D00957A81 /* News@3x.png */,
@@ -2123,15 +2112,6 @@
 			path = RunLoop;
 			sourceTree = "<group>";
 		};
-		70E226DF1EA9EE98007B09D8 /* CTL */ = {
-			isa = PBXGroup;
-			children = (
-				70E226E01EA9EEA5007B09D8 /* module.modulemap */,
-				70E226E31EA9EEA5007B09D8 /* StarAPP-Bridging-Header.h */,
-			);
-			name = CTL;
-			sourceTree = "<group>";
-		};
 		70FC2FED1D75207300BD06FE /* StarTime */ = {
 			isa = PBXGroup;
 			children = (
@@ -2279,7 +2259,6 @@
 		A4A669F21555E44100AED3AF = {
 			isa = PBXGroup;
 			children = (
-				70E226DF1EA9EE98007B09D8 /* CTL */,
 				7007708A1D8642DA003C0D68 /* Model */,
 				70170BDD1D7412EE00CC3951 /* images */,
 				70170BCD1D74019800CC3951 /* AppConfig */,
@@ -2438,7 +2417,6 @@
 				702218B81E5AD304005D96A0 /* 加锁 @3x.png in Resources */,
 				70D6B8F11E2DAF3D00957A81 /* Entertainment@1x.png in Resources */,
 				70231D0C1DC2E9FA00F73202 /* Back@2x.png in Resources */,
-				70D6B9081E2DAF3D00957A81 /* Movies&Series@3x.png in Resources */,
 				707FE74F1DACC3C30087C361 /* Overlay@1x.png in Resources */,
 				702CE4391DDA9881000A0513 /* 4.png in Resources */,
 				702CE4351DDA9881000A0513 /* 2@3x.png in Resources */,
@@ -2831,7 +2809,6 @@
 				701017611DCADA2500F9D5FF /* quan@3x.png in Resources */,
 				70FC30E21D75714E00BD06FE /* kr-video-player-play@3x.png in Resources */,
 				707FE7511DACC3C30087C361 /* Overlay@3x.png in Resources */,
-				70D6B9061E2DAF3D00957A81 /* Movies&Series@1x.png in Resources */,
 				707FE7411DACC3C30087C361 /* Group 16@2x.png in Resources */,
 				7045C46D1DC715FB002647F9 /* 矩形2@3x.png in Resources */,
 				7048580A1E46D0E60052318D /* placeholder@2x.png in Resources */,
@@ -2871,7 +2848,6 @@
 				70D6B9171E2DAF3D00957A81 /* Sports@3x.png in Resources */,
 				70130EA41D8FDFD2005F0A49 /* 11.png in Resources */,
 				7014433A1DDC7F19008EAAC6 /* 引导页2.png in Resources */,
-				70D6B9071E2DAF3D00957A81 /* Movies&Series@2x.png in Resources */,
 				70FFE4031DE3EF4800223E43 /* 时移@2x.png in Resources */,
 				70FC30E31D75714E00BD06FE /* kr-video-player-point@2x.png in Resources */,
 				70FFE3E41DE2DBA200223E43 /* M3.png in Resources */,
