@@ -285,7 +285,7 @@
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "447"
             endingLineNumber = "447"
-            landmarkName = "-uiTableViewHidden"
+            landmarkName = "-rightTableViewHide"
             landmarkType = "7">
          </BreakpointContent>
       </BreakpointProxy>
@@ -707,7 +707,7 @@
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "2590"
             endingLineNumber = "2590"
-            landmarkName = "-tableView:cellForRowAtIndexPath:"
+            landmarkName = "-setEventTime1"
             landmarkType = "7">
          </BreakpointContent>
       </BreakpointProxy>
@@ -755,7 +755,7 @@
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "3004"
             endingLineNumber = "3004"
-            landmarkName = "-touchToSee:DicWithRow:"
+            landmarkName = "-tableView:didSelectRowAtIndexPath:"
             landmarkType = "7">
          </BreakpointContent>
       </BreakpointProxy>
@@ -819,7 +819,7 @@
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "3048"
             endingLineNumber = "3048"
-            landmarkName = "-touchToSeeAudioSubt:DicWithRow:audio:subt:"
+            landmarkName = "-tableView:didSelectRowAtIndexPath:"
             landmarkType = "7">
          </BreakpointContent>
       </BreakpointProxy>
